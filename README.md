@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**BaoBG104o/BaoBG104o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm BaoBG104o, a passionate developer focused on building innovative solutions.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on exciting projects using modern technologies
+- 🌱 I'm currently learning advanced software development practices and cloud technologies
+- 👯 I'm looking to collaborate on open-source projects and innovative applications
+- 🤔 I'm looking for help with scaling distributed systems
+- 💬 Ask me about software development, coding best practices, and technology trends
+- 📫 How to reach me: Feel free to reach out through GitHub
+- ⚡ Fun fact: I love solving complex problems and building elegant solutions
+
+### Skills & Interests
+
+- Software Development
+- Problem Solving
+- Open Source Contributions
+- Continuous Learning
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
